@@ -44,4 +44,4 @@
 
 ## License
 
-MIT License. Gunakan dengan tanggung jawab dan kehormatan—**karena sigma tidak pernah menyalahgunakan kekuatan.**
+MIT License. Gunakan dengan tanggung jawab dan kehormatan—**karena Himmel pasti tidak pernah menyalahgunakan kekuatan.**
